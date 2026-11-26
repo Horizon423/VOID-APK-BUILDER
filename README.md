@@ -486,7 +486,7 @@ You may create forks and modified versions under the license terms. However:
 
 Important: Apache License 2.0 allows commercial use and redistribution when its conditions are followed. The branding rules above concern misleading use of project identity; they do not cancel the rights granted by the Apache License.
 
-See the full license text in the ""LICENSE"" [LICENSE](   )
+See the full license text in the ""LICENSE"" **[LICENSE]( https://github.com/Horizon423/VOID-APK-BUILDER?tab=License-1-ov-)file**
 
 Official license: https://www.apache.org/licenses/LICENSE-2.0
 
