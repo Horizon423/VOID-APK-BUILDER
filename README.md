@@ -513,3 +513,6 @@ Build. Improve. Share.
 Developed by Void Kernel 12
 
 Open Source • Community Driven • Powered by GitHub Actions
+
+[Screenshot](Screenshot_20261125-184903832.jpg)
+[Screenshot](Screenshot_20261125-181159700.jpg)
